@@ -1,0 +1,48 @@
+header, footer{
+    background-color: rgb(69, 67, 67);
+    padding: 10px;
+    text-align: center;
+    color: white;
+
+}
+
+
+
+
+#section1{
+    
+    /* padding:20px; */
+    max-width: 500px;
+    text-align: center;
+    margin:0 auto;
+}
+
+
+
+
+
+
+#section2{
+    max-width: 500px;
+    text-align: center;
+    margin:0 auto;
+    background-color: rgb(75, 74, 76);
+    /* padding:20px; */
+
+
+    
+}
+
+#section3{
+    max-width: 500px;
+    text-align: center;
+    /* padding:20px; */
+    margin:0 auto;
+   
+   
+}
+
+
+
+
+

@@ -1,0 +1,14 @@
+/* Le rouge dans différents formats de couleur */
+
+/* body {
+    color: rgba(255, 0, 0, 0.743);
+    color: #ff0000;
+    color: rgba,(255, 0, 0, 40);
+    color: hsl(0, 100%, 50%);
+    color: hwb(247 4% 7% / 0.945);
+} */
+
+p{
+    text-decoration: underline;
+    text-decoration: overline;
+}

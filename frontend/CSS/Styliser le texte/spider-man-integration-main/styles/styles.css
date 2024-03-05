@@ -1,0 +1,66 @@
+body{
+    background-image: url(../images/bg-spider.png);
+    letter-spacing: 1.5px;
+
+}
+
+ header{
+    background-color:rgba(0, 0, 0, 0.6)
+ }
+
+ a:hover {
+    
+    text-decoration: underline;
+}
+a {
+    text-decoration: none;
+    color: aliceblue;
+    font-weight: bold;
+    font-size: 20px;
+    
+   color: blueviolet;
+  }
+
+  .text-the{
+    font-size: 20px;
+    font-weight: 10px;
+    line-height: 1; 
+  }
+
+h1{
+    color: white;
+    font-size: 50px;
+    text-shadow: 4px 4px 0px darkred, -4px -4px 0px  darkblue;
+
+}
+
+h1:hover{
+    text-shadow: 5px 5px 0px darkred, -5px -5px 0px  darkblue;
+
+}
+
+q{
+    font-weight: bold;  
+    font-family: 'Roboto', sans-serif;
+    text-shadow: rgba(0,0, 0,0.6);
+    font-style: italic;
+    font-size: 10px;
+}
+.class text-the{
+    font-style: italic;
+    font-size: 30px;
+   
+}
+
+footer{
+    color: white;
+    text-align: center;
+    
+}
+
+
+
+
+
+
+

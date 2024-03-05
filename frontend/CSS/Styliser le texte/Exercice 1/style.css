@@ -1,0 +1,18 @@
+h1{
+    font-family: 'Honk', system-ui;
+}
+
+p 
+    {
+        font-size: larger;
+        font-weight: 900;
+        font-style: normal;
+        text-align: justify;
+        text-decoration: overline;
+        text-decoration-color: rgb(231, 11, 11);
+        text-transform: uppercase;
+        text-shadow: rgb(116, 225, 21);
+    }
+
+   
+    
